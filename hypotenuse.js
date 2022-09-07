@@ -1,4 +1,4 @@
-const sides = document.querySelector(".side-input");
+const sides = document.querySelectorAll(".side-input");
 const hypotenuseBtn = document.querySelector("#hypotenuse-btn");
 const outputEl = document.querySelector("#output");
 
